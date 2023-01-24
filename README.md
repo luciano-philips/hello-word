@@ -1,2 +1,4 @@
 # hello-word
-Repositório criado para o treinamento sobre o github
+Repositório criado para o nosso treinamento sobre o github
+# Luciano Souza
+Estamos estudando sobre o github a partir do tutorial disponibilizado por eles
